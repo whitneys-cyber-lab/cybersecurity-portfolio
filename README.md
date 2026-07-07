@@ -3,3 +3,33 @@
 Welcome to Whitney’s Cyber Lab.
 
 This repository documents my hands-on cybersecurity learning, lab investigations, certifications, and practical projects as I transition into cybersecurity.
+
+## Focus Areas
+
+- SOC analysis
+- SIEM and log investigation
+- Network traffic analysis
+- Vulnerability assessment
+- Web application security
+- Incident documentation
+- AI security testing
+
+## Repository Structure
+
+- `certifications/` — Certifications, virtual experience programs, and cybersecurity training
+- `soc-investigations/` — Splunk, CloudTrail, log analysis, and incident investigation labs
+- `network-analysis/` — PCAP review and traffic analysis labs
+- `vulnerability-assessment/` — Vulnerability scanning and remediation practice
+- `ai-security/` — AI security and prompt injection projects
+- `templates/` — Reusable write-up templates
+
+## Certifications & Training
+
+- CompTIA Security+
+- Deloitte Cybersecurity Virtual Experience Program
+- Mastercard Cybersecurity Virtual Experience Program
+- Evolve Security Academy cybersecurity training
+
+## Tools Practiced
+
+Splunk, Wireshark, Zeek, Nmap, Nessus, Burp Suite, WPScan, GoBuster, Metasploit, tcpdump, and Linux command-line tools.
