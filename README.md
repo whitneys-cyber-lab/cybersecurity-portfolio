@@ -20,7 +20,7 @@ This repository documents my hands-on cybersecurity learning, lab investigations
 - [SOC Investigations](soc-investigations/) — Splunk, CloudTrail, log analysis, and incident investigation labs
 - [Network Analysis](network-analysis/) — PCAP review and traffic analysis labs
 - [Vulnerability Assessment](vulnerability-assessment/) — Vulnerability scanning and remediation practice
-- `ai-security/` — AI security and prompt injection projects
+- [AI Security](ai-security/) — AI security and prompt injection projects
 - [Templates](templates/) — Reusable write-up templates
 
 ## Certifications & Training
