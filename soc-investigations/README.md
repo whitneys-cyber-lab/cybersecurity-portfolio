@@ -16,7 +16,7 @@ These projects focus on analyzing logs, identifying suspicious activity, reconst
 
 ## Labs & Write-Ups
 
-### AWSRaid Splunk Investigation
+### [AWSRaid Splunk Investigation](awsraid-splunk-investigation/)
 
 A Splunk-based investigation involving AWS CloudTrail logs, suspicious login activity, IAM events, attacker-created user activity, and privilege/group changes.
 
