@@ -16,7 +16,7 @@ This repository documents my hands-on cybersecurity learning, lab investigations
 
 ## Repository Structure
 
-- `certifications/` — Certifications, virtual experience programs, and cybersecurity training
+- - [Certifications & Training](certifications/) — Certifications, virtual experience programs, and cybersecurity training
 - `soc-investigations/` — Splunk, CloudTrail, log analysis, and incident investigation labs
 - `network-analysis/` — PCAP review and traffic analysis labs
 - `vulnerability-assessment/` — Vulnerability scanning and remediation practice
