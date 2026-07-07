@@ -29,7 +29,7 @@ A Splunk-based investigation involving AWS CloudTrail logs, suspicious login act
 - Building an incident timeline
 - Documenting security findings
 
-### Retail Breach Investigation
+### [Retail Breach Investigation](retail-breach-investigation/)
 
 A web attack investigation involving suspicious HTTP requests, injected malicious script activity, source IP analysis, and identifying exploited web application behavior.
 
